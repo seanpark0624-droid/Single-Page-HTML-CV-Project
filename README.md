@@ -9,7 +9,7 @@
 <h2>Source of the Project</h2>
 <link>https://roadmap.sh/projects/single-page-cv</link>
 <h3>My own project preview</h3>
-<a href="https://htmlpreview.github.io/?https://github.com/seanpark0624-droid/Single-Page-HTML-CV-Project/blob/main/index.html" target="_blank" rel="noopener noreferrer">here</a>
+<a href="https://htmlpreview.github.io/?https://github.com/seanpark0624-droid/Single-Page-HTML-CV-Project/blob/main/index.html">here</a>
 <h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
